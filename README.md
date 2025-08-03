@@ -1,0 +1,2 @@
+# TP-DCC075
+Repositório do Trabalho Prático da diciplina DCC075 - UFJF - 2025.1. O trabalho consiste na implementação de uma criptografia de Rabin e sua quebra com o algoritmo de Shor.
